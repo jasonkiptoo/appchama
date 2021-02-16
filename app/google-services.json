@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657758299339",
+    "project_id": "famkotlin",
+    "storage_bucket": "famkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657758299339:android:6264facc999b1bfdbca74e",
+        "android_client_info": {
+          "package_name": "com.example.fam_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657758299339-0v5helvn8ql1k2j61o3nh2o2uq2dihkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fam_kotlin",
+            "certificate_hash": "051bda27e0024027f1cd8f6c59c74fdaeaf06b0a"
+          }
+        },
+        {
+          "client_id": "657758299339-91on76e6k4t1u1ko7mb81epboeqd7vbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Hwr2CvcmIwCbLrRqXmn44Hm0Kclc7ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657758299339-91on76e6k4t1u1ko7mb81epboeqd7vbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
